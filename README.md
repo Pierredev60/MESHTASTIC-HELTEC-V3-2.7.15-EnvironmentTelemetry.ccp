@@ -29,3 +29,4 @@ rain_mm_per_hour = iaq / 100.0
 
 ## Notes
 Simple and efficient implementation to add rainfall monitoring without modifying Meshtastic protobuf. Suitable for low-power environmental sensing deployments.
+Note: Parts of this code were improved with AI-assisted correction, while the implementation and validation remain under the author's responsibility.
